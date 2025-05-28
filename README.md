@@ -1,5 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hello! 👋, I'm Domingo</h1>
+<h3 align="center">A Computer Science Engineer based in Málaga, Spain</h3>
 
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)]([https://www.linkedin.com/in/tu-usuario/](https://www.linkedin.com/in/domingo-rodr%C3%ADguez-2491b5357/))
+
+- 🌱 I’m currently learning technologies to become a Full Stack Developer, including (for now):
+  - Frontend: React, HTML, CSS
+  - Backend: Python (FastAPI)
 <!--
 **xDomiinz22/xDomiinz22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
