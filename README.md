@@ -3,7 +3,7 @@
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/tu-usuario/](https://www.linkedin.com/in/domingo-rodr%C3%ADguez-2491b5357/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/domingo-rodríguez-2491b5357/)
 
 - 🌱 I’m currently learning technologies to become a Full Stack Developer, including (for now):
   - Frontend: React, HTML, CSS
